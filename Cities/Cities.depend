@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1475060326 source:c:\users\gusein g\desktop\ski\cities\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<ostream>
+	<fstream>
+	<string>
+

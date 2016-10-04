@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1474984410 source:c:\users\gusein g\desktop\ski\finding a letter\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<ostream>
+	<fstream>
+	<string>
+
