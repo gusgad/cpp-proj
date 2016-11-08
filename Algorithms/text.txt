@@ -1,0 +1,10 @@
+9
+Pizza Italy 30 8
+Potato_chips USA 25 5
+Taco Mexico 12 3
+Marzipan Germany 35 12
+Ankimo Japan 18 10
+Lasagna Italy 25 6
+Croissant France 50 2
+Shepherds_pie Great_Britain 10 5
+Salamiakki Finland 20 2

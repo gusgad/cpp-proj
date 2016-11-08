@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1476195119 source:c:\users\gusein g\desktop\ski\algorithms\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<ostream>
+	<fstream>
+	<string>
+
