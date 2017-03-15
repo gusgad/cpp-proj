@@ -1,0 +1,8 @@
+5 Mathematics 4
+64 Lithuanian_language 4
+3 Chemistry 3
+96 Physics 3
+63 Philosophy 1
+87 Marketing 2
+85 History 2
+73 Informatics 2
