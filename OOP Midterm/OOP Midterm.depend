@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493204472 source:c:\users\gusein g\desktop\ski\oop midterm\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

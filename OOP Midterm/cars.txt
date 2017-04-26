@@ -1,0 +1,6 @@
+Mercedes-Benz SLK320 5387 black 1999
+Aston_Martin DB9 9237 green 2008
+BMW 313_Coupe 1292 silver 2007
+Lamborghini Gallardo 3378 silver 2012
+Ford Mustang 1685 silver 2006
+Dodge Charger 0467 silver 1968
